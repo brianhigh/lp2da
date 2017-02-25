@@ -58,7 +58,7 @@ NOTE: The second book listed above is probably the best match for this
 portion of our course. 
 
 Later, we will also refer to some books specifically intended for learning how 
-to use Python for data analysis. They assume previous experience with Python.
+to use Python for data analysis.
 
-* [Python for Data Analysis (2013)](https://seattle.bibliocommons.com/item/show/3098569030_python_for_data_analysis) (free from *SPL*)
 * [Data Wrangling With Python (2016)](https://seattle.bibliocommons.com/item/show/3239443030_data_wrangling_with_python) (free access through *SPL*)
+* [Python for Data Analysis (2013)](https://seattle.bibliocommons.com/item/show/3098569030_python_for_data_analysis) (free from *SPL*)
