@@ -62,3 +62,6 @@ to use Python for data analysis.
 
 * [Data Wrangling With Python (2016)](https://seattle.bibliocommons.com/item/show/3239443030_data_wrangling_with_python) (free access through *SPL*)
 * [Python for Data Analysis (2013)](https://seattle.bibliocommons.com/item/show/3098569030_python_for_data_analysis) (free from *SPL*)
+
+These two books, combined with *Introducing Python* would make an ideal set
+of texts for our course.
