@@ -20,9 +20,9 @@ course you choose to try. The three courses are listed in increasing skill level
 these courses include short introductory videos along with the interactive tutorials. So, as the videos appear, watch them before 
 proceeding to complete the exercises that they introduce.
 
-* [Code School: Try Python](https://www.codeschool.com/courses/try-python) - Level 1: Birds & Coconuts
-* [Codecademy: Python](https://www.codecademy.com/learn/python) - 1: Python Syntax
-* [DataCamp: Intro to Python for Data Science](https://campus.datacamp.com/courses/intro-to-python-for-data-science/) - 1: Python Basics
+* [Code School: Try Python](https://www.codeschool.com/courses/try-python) (*free with registration*) - Level 1: Birds & Coconuts
+* [Codecademy: Python](https://www.codecademy.com/learn/python) (*free with registration*) - 1: Python Syntax
+* [DataCamp: Intro to Python for Data Science](https://campus.datacamp.com/courses/intro-to-python-for-data-science/) (*free with registration*) - 1: Python Basics
 
 You may also wish to run the commands from these tutorials in Anaconda Python or Jupyter Notebook if you have 
 additional time and interest.
