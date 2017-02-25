@@ -11,4 +11,4 @@ to become proficient in using Python for data analysis.
 
 ## Modules
 
-# [Getting Started](getting_started.md)
+1. [Getting Started](getting_started.md)
