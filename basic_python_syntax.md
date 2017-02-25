@@ -31,7 +31,7 @@ additional time and interest.
 
 All reading in this course is optional. Who has the time or attention span these days? Well, if you do, here are 
 some worthy assignments. Pick one. As before, the assignments are listed from beginner to intermediate skill level 
-(or programming background, experience, etc.). These are also listed from less verbose to most verbose.
+(or programming background, experience, etc.). These are also listed from least verbose to most verbose.
 
 * [Think Python](http://greenteapress.com/thinkpython/html/thinkpython003.html) (*free online*) - Ch. 2
 * [Introducing Python (2014)](https://seattle.bibliocommons.com/item/show/3098624030_introducing_python) (free from *SPL*) - Ch. 2
