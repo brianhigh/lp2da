@@ -14,9 +14,10 @@ arranged in order from slowest, most detailed (beginner), too fastest, less deta
 ## Interactive Tutorials
 
 These two free courses offer browser-based environments with guided, interactive, hands-on tutorials for learning Python. 
-Try both of these. Just do section 1 of each course for now. The two courses are listed in order from beginner to 
-intermediate skill levels.
+Try both of these. Just do section 1 of each course for now. The three courses are listed in order from beginner to 
+intermediate skill levels. (Some offer some introductory video instruction with the guided tutorials. Watch these videos too.)
 
+* [Code School: Try Python](https://www.codeschool.com/courses/try-python) - Level 1
 * [Codecademy: Python](https://www.codecademy.com/learn/python) - 1 Python Syntax
 * [Datacamp: Intro to Python for Data Science](https://campus.datacamp.com/courses/intro-to-python-for-data-science/) - 1 Python Basics
 
