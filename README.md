@@ -9,6 +9,7 @@ It is actually a structure which will guide you through several popular online c
 The combination of these courses will allow someone who has never learned any computer programming before 
 to become proficient in using Python for data analysis.
 
-## Modules
+## Learning Modules
 
 1. [Getting Started](getting_started.md)
+2. [Basic Python Syntax](basic_python_syntax.md)
