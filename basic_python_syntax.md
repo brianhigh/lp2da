@@ -22,7 +22,7 @@ proceeding to complete the exercises that they introduce.
 
 * [Code School: Try Python](https://www.codeschool.com/courses/try-python) - Level 1: Birds & Coconuts
 * [Codecademy: Python](https://www.codecademy.com/learn/python) - 1: Python Syntax
-* [Datacamp: Intro to Python for Data Science](https://campus.datacamp.com/courses/intro-to-python-for-data-science/) - 1: Python Basics
+* [DataCamp: Intro to Python for Data Science](https://campus.datacamp.com/courses/intro-to-python-for-data-science/) - 1: Python Basics
 
 You may also wish to run the commands from these tutorials in Anaconda Python or Jupyter Notebook if you have 
 additional time and interest.
