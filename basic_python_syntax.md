@@ -6,7 +6,7 @@ through some interactive, online tutorials for practice.
 ## Video Lessons
 
 Go through *one* or more of these to get started with basic Python syntax. They are mostly equivalent, but they are 
-listed in order from slowest, most detailed (beginner), too fastest, least detailed (intermediate).
+listed in order from slowest, most detailed (beginner), to the fastest, least detailed (intermediate).
 
 * [Udemy: Complete Python Bootcamp](https://www.udemy.com/complete-python-bootcamp/) - Sections 3, 4, and 5
 * [Udemy: Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/) - Section 4
