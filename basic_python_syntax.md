@@ -10,7 +10,7 @@ arranged in order from slowest, most detailed (beginner), too fastest, least det
 
 * [Udemy: Complete Python Bootcamp](https://www.udemy.com/complete-python-bootcamp/) - Sections 3, 4, and 5
 * [Udemy: Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/) - Section 4
-* [Lynda: Introduction to Data Analysis with Python](https://www.lynda.com/Numpy-tutorials/Introduction-Data-Analysis-Python/) (*free through SPL*) - Section 2
+* [Lynda: Introduction to Data Analysis with Python](https://www.lynda.com/Numpy-tutorials/Introduction-Data-Analysis-Python/) (*free through [SPL](http://lynda.com/portal/sip?org=spl.org)*) - Section 2
 
 ## Interactive Tutorials
 
