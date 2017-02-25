@@ -26,3 +26,14 @@ proceeding to complete the exercises that they introduce.
 
 You may also wish to run the commands from these tutorials in Anaconda Python or Jupyter Notebook if you have 
 additional time and interest.
+
+## Reading
+
+All reading in this course is optional. Who has the time or attention span these days? Well, if you do, here are 
+some worthy assignments. Pick one. As before, the assignments are listed from beginner to intermediate skill level 
+(or programming background, experience, etc.). These are also listed from less verbose to most verbose.
+
+* [Think Python](http://greenteapress.com/thinkpython/html/thinkpython003.html) - Ch2. (2.1 to 2.7) *free online*
+* [Introducing Python (2014)](https://seattle.bibliocommons.com/item/show/3098624030_introducing_python) - Ch. 2-3
+* [Learning Python, 5th Ed. (2013)](https://seattle.bibliocommons.com/item/show/3098595030_learning_python) - Ch. 4-5
+
