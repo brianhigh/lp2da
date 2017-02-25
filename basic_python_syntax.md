@@ -33,7 +33,7 @@ All reading in this course is optional. Who has the time or attention span these
 some worthy assignments. Pick one. As before, the assignments are listed from beginner to intermediate skill level 
 (or programming background, experience, etc.). These are also listed from less verbose to most verbose.
 
-* [Think Python](http://greenteapress.com/thinkpython/html/thinkpython003.html) (*free online*) - Ch2.
+* [Think Python](http://greenteapress.com/thinkpython/html/thinkpython003.html) (*free online*) - Ch. 2
 * [Introducing Python (2014)](https://seattle.bibliocommons.com/item/show/3098624030_introducing_python) (free from *SPL*) - Ch. 2
 * [Learning Python, 5th Ed. (2013)](https://seattle.bibliocommons.com/item/show/3098595030_learning_python) (free from *SPL*) - Ch. 4
 
