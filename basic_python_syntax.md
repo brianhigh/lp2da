@@ -1,6 +1,7 @@
 # Basic Python Syntax
 
-We will start coding by exploring basic Python syntax. First, go through the video lessons, then do some interactive tutorials.
+In this module we will start coding in Python. First, go through the video lessons to learn basic Python syntax, then work 
+through some interactive, online tutorials for practice.
 
 ## Video Lessons
 
