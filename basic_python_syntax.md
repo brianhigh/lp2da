@@ -79,6 +79,19 @@ portion of our course.
 
 ### Additional Materials
 
+#### Courses
+
+A key component of Python for Data Analysis is the *Pandas* library. We will 
+not get to this material until later in our course. However, if you are signing
+up for online materials for our course now, and there is a time-limited discount
+offer currently running, you may want to sign up for this Udemy course now,
+while you can stilll take advantage of the discounted costs, as they can be 
+significant.
+
+* [Udemy: Data Analysis in Python with Pandas](https://www.udemy.com/data-analysis-in-python-with-pandas/)
+
+#### Books
+
 Later, we will also refer to some books specifically intended for learning how 
 to use Python for data analysis. We mention these now, in case you wanted to 
 plan your library loans or book purchases ahead of time.
