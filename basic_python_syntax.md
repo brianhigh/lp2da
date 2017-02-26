@@ -23,9 +23,10 @@ detailed (beginner), to the fastest, least detailed (intermediate).
 * [Lynda: Introduction to Data Analysis with Python](https://www.lynda.com/Numpy-tutorials/Introduction-Data-Analysis-Python/) (*free through [SPL](http://lynda.com/portal/sip?org=spl.org)*) - 
   Section 2
   
-NOTE: The first course in the list above is based on Python 2.7 *not* Python 3. 
-We will use Python 3. You can still watch videos made for Python 2.7, just note
-the differences. These are pointed out by the instructor, so just be mindful.
+NOTE: The first course in the list above, *Complete Python Bootcamp* is based 
+on Python 2.7 *not* Python 3. We will use Python 3. You can still watch videos 
+made for Python 2.7, just note the differences. These are pointed out by the 
+instructor, so just be mindful.
 
 NOTE: If you are beginner to programming, and even *Complete Python Bootcamp* 
 is going too fast for you, then you are encouraged to first take these courses ...
