@@ -8,8 +8,8 @@ This course will use materials from online courses, websites, software, and book
 The materials have been selected to suit a variety of student backgrounds. The
 software is free, open-source, and will run on Windows, Mac, or Linux computers.
 
-We will start by getting a basic introduction to Python and installing Python on 
-your own computer.
+We will start with a basic introduction to Python and then proceed to install 
+Python onto your own computer.
 
 ## Installing Python
 
