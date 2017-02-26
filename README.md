@@ -11,7 +11,7 @@ to become proficient in using Python for data analysis.
 
 ## Learning Modules
 
-1. [Getting Started](getting_started.md)
+1. [Getting Started](getting_started.md): Installing Python and Jupyter (IPython) Notebook
 2. [Basic Python Syntax I](basic_python_syntax.md): Statements, Variables, Data Types and Structures
 3. Basic Python Syntax II: Conditional Statements, Loops, and Functions
 4. Working with Dataframes: Numpy and Pandas
