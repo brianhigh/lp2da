@@ -27,6 +27,14 @@ NOTE: The first course in the list above is based on Python 2.7 *not* Python 3.
 We will use Python 3. You can still watch videos made for Python 2.7, just note
 the differences. These are pointed out by the instructor, so just be mindful.
 
+NOTE: If you are beginner to programming, and even *Complete Python Bootcamp* 
+going too fast for you, then you are encouraged to first take these courses ...
+
+* Course I and II from the [Coursera: Python for Everybody Specialization](https://www.coursera.org/specializations/python)
+
+... before proceeding with our course (*Learning Python for Data Analysis*, 
+"lp4da").
+
 ## Interactive Tutorials
 
 These free courses offer browser-based environments with online, guided, 
