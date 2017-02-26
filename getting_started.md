@@ -13,6 +13,8 @@ of *decreasing* detail (and video duration).
   Sections 1 and 2
 * [Udemy: Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/) - 
   Sections 1, 2, and 3
+* [Udemy: Python A-Z™: Python For Data Science With Real Exercises!](https://www.udemy.com/python-coding) - 
+  Section 1
 * [Lynda: Introduction to Data Analysis with Python](https://www.lynda.com/Numpy-tutorials/Introduction-Data-Analysis-Python/) (*free through [SPL](http://lynda.com/portal/sip?org=spl.org)*) - 
   Section 1
 

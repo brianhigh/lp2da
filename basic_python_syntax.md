@@ -14,6 +14,8 @@ detailed (beginner), to the fastest, least detailed (intermediate).
   Sections 3, 4, and 5
 * [Udemy: Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/) - 
   Section 4
+* [Udemy: Python A-Z™: Python For Data Science With Real Exercises!](https://www.udemy.com/python-coding) - 
+  Section 2 (more detail in Section 3)
 * [Lynda: Introduction to Data Analysis with Python](https://www.lynda.com/Numpy-tutorials/Introduction-Data-Analysis-Python/) (*free through [SPL](http://lynda.com/portal/sip?org=spl.org)*) - 
   Section 2
 
