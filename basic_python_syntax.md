@@ -23,20 +23,21 @@ detailed (beginner), to the fastest, least detailed (intermediate).
 * [Lynda: Introduction to Data Analysis with Python](https://www.lynda.com/Numpy-tutorials/Introduction-Data-Analysis-Python/) (*free through [SPL](http://lynda.com/portal/sip?org=spl.org)*) - 
   Section 2
   
-  NOTE: The first course in the list above is based on Python 2.7 *not* Python 3. 
-  We will use Python 3. You can still watch videos made for Python 2.7, just note
-  the differences. These are pointed out by the instructor, so just be mindful.
+NOTE: The first course in the list above is based on Python 2.7 *not* Python 3. 
+We will use Python 3. You can still watch videos made for Python 2.7, just note
+the differences. These are pointed out by the instructor, so just be mindful.
 
 ## Interactive Tutorials
 
 These free courses offer browser-based environments with online, guided, 
 interactive tutorials for learning Python. Try all of these courses if you 
 have the time and interest. Otherwise, try at least one of the courses. Just 
-do section 1 of each course you choose to try. The three courses are listed in 
-increasing skill level -- from absolute beginner to intermediate. Some of 
-these courses include short introductory videos along with the interactive 
-tutorials. So, as the videos appear, watch them before proceeding to complete 
-the exercises that they introduce.
+do section 1 of each course you choose to try. 
+
+The three courses are listed in increasing skill level -- from absolute beginner 
+to intermediate. Some of these courses include short introductory videos along 
+with the interactive tutorials. So, as the videos appear, watch them before 
+proceeding to complete the exercises that they introduce.
 
 * [Code School: Try Python](https://www.codeschool.com/courses/try-python) (*free with registration*) - 
   Level 1: Birds & Coconuts
@@ -67,11 +68,16 @@ least verbose to most verbose.
 NOTE: The second book listed above is probably the best match for this 
 portion of our course. 
 
+### Additional Materials
+
 Later, we will also refer to some books specifically intended for learning how 
-to use Python for data analysis.
+to use Python for data analysis. We mention these now, in case you wanted to 
+plan your library loans or book purchases ahead of time.
 
 * [Data Wrangling With Python (2016)](https://seattle.bibliocommons.com/item/show/3239443030_data_wrangling_with_python) (free access through *SPL*)
 * [Python for Data Analysis (2013)](https://seattle.bibliocommons.com/item/show/3098569030_python_for_data_analysis) (free from *SPL*)
 
 These two books, combined with *Introducing Python* would make an ideal set
-of texts for our course.
+of texts for our course. So, if you are truly serious about learning this 
+material, and would actually read these books, then you are encouraged to 
+obtain a copy of each of them and study them carefully.
