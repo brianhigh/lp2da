@@ -12,7 +12,7 @@ to become proficient in using Python for data analysis.
 ## Learning Modules
 
 1. [Getting Started](getting_started.md)
-2. [Basic Python Syntax](basic_python_syntax.md)
-3. Conditional Statements, Loops, and Functions
-4. Numpy and Pandas
-5. Matplotlib and Seaborn
+2. [Basic Python Syntax I](basic_python_syntax.md): Statements, Variables, Data Types and Structures
+3. Basic Python Syntax II: Conditional Statements, Loops, and Functions
+4. Working with Dataframes: Numpy and Pandas
+5. Data Visualization: Matplotlib and Seaborn
