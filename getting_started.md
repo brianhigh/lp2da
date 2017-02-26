@@ -22,4 +22,4 @@ When installing software, install [Anaconda Python 3](https://www.continuum.io/d
 (latest version). Anaconda will include Jupyter Notebook and Spyder. This is 
 all free software.
 
-NOTE: The first course in the list above is based on Python 2.7 *not* Python 3.
+NOTE: The first course in the list above is based on Python 2.7 *not* Python 3. We will use Python 3.
