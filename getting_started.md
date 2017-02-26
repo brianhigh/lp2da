@@ -8,6 +8,10 @@ This course will use materials from online courses, websites, software, and book
 The materials have been selected to suit a variety of student backgrounds. The
 software is free, open-source, and will run on Windows, Mac, or Linux computers.
 
+For each learning module, we will provide a list of materials and assignments. You
+can select the materials which best suit your background (level of expertise and
+degree of interest).
+
 We will start with a basic introduction to Python and then proceed to install 
 Python onto your own computer.
 
