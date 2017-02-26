@@ -90,6 +90,8 @@ significant.
 
 * [Udemy: Data Analysis in Python with Pandas](https://www.udemy.com/data-analysis-in-python-with-pandas/)
 
+NOTE: This course is a few years old now and was taught using Python 2.7.
+
 #### Books
 
 Later, we will also refer to some books specifically intended for learning how 
