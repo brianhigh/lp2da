@@ -14,4 +14,5 @@ to become proficient in using Python for data analysis.
 1. [Getting Started](getting_started.md)
 2. [Basic Python Syntax](basic_python_syntax.md)
 3. Conditional Statements, Loops, and Functions
-
+4. Numpy and Pandas
+5. Matplotlib and Seaborn
