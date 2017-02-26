@@ -4,6 +4,10 @@ In this module we will start coding in Python. First, go through the video
 lessons to learn basic Python syntax, then work through some interactive, 
 online tutorials for practice.
 
+In particular, we will start with basic statements like print and assignment
+statements. We will look at variables and the main variable types in Python.
+We will also learn about data structures, such as lists and dictionaries.
+
 ## Video Lessons
 
 Go through *one* or more of these to get started with basic Python syntax. 
