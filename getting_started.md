@@ -1,6 +1,14 @@
 # Getting Started
 
-We will start by getting an introduction to Python and installing Python on 
+Learning Python for Data Analysis (lp4da) is a course useful for self-guided study, 
+study groups, private tutoring. It can also provide a structure for traditional 
+classroom instruction.
+
+This course will use materials from online courses, websites, software, and books. 
+The materials have been selected to suit a variety of student backgrounds. The
+software is free, open-source, and will run on Windows, Mac, or Linux computers.
+
+We will start by getting a basic introduction to Python and installing Python on 
 your own computer.
 
 ## Installing Python
@@ -22,4 +30,5 @@ When installing software, install [Anaconda Python 3](https://www.continuum.io/d
 (latest version). Anaconda will include Jupyter Notebook and Spyder. This is 
 all free software.
 
-NOTE: The first course in the list above is based on Python 2.7 *not* Python 3. We will use Python 3.
+NOTE: The first course in the list above is based on Python 2.7 *not* Python 3. 
+We will use Python 3.
