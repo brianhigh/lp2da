@@ -28,7 +28,7 @@ We will use Python 3. You can still watch videos made for Python 2.7, just note
 the differences. These are pointed out by the instructor, so just be mindful.
 
 NOTE: If you are beginner to programming, and even *Complete Python Bootcamp* 
-going too fast for you, then you are encouraged to first take these courses ...
+is going too fast for you, then you are encouraged to first take these courses ...
 
 * Course I and II from the [Coursera: Python for Everybody Specialization](https://www.coursera.org/specializations/python)
 
