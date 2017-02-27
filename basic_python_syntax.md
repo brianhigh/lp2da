@@ -85,12 +85,19 @@ A key component of Python for Data Analysis is the *Pandas* library. We will
 not get to this material until later in our course. However, if you are signing
 up for online materials for our course now, and there is a time-limited discount
 offer currently running, you may want to sign up for this Udemy course now,
-while you can stilll take advantage of the discounted costs, as they can be 
+while you can still take advantage of the discounted costs, as they can be 
 significant.
 
 * [Udemy: Data Analysis in Python with Pandas](https://www.udemy.com/data-analysis-in-python-with-pandas/)
 
 NOTE: This course is a few years old now and was taught using Python 2.7.
+
+This course covers more than *Pandas*, and the instructor does a good job
+explaining and demonstrating the various concepts along the way. It provides
+an alternative presentation to the first third of the material covered in 
+*Python for Data Science and Machine Learning Bootcamp*. It covers all of
+the material in *Python A-Z™: Python For Data Science With Real Exercises!* 
+except for the "Advanced Visualization" section, but with more focus on *Pandas*.
 
 #### Books
 
