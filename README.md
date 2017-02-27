@@ -7,7 +7,7 @@ The course provides a structure for learning the Python programming language for
 
 ## A "meta" course
 
-Our structure which will actually guide you through several popular online courses. 
+Our course structure will actually guide you through several popular online courses. 
 The combination of these courses will allow you to become proficient in using Python for data 
 analysis, even if you have no previous programming experience.
 
