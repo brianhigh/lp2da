@@ -6,8 +6,8 @@ This repository contains materials for a self-guided course.
 The course provides a structure for learning the Python programming language for use in data analysis.
 
 It is actually a structure which will guide you through several popular online courses. 
-The combination of these courses will allow someone who has never learned any computer programming before 
-to become proficient in using Python for data analysis.
+The combination of these courses will allow you to become proficient in using Python for data 
+analysis, even if you have no previous programming experience.
 
 ## Learning Modules
 
