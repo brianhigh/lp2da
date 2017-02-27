@@ -1,4 +1,4 @@
-# Basic Python Syntax
+# Basic Python syntax
 
 In this module we will start coding in Python. First, go through the video 
 lessons to learn basic Python syntax, then work through some interactive, 
@@ -8,7 +8,7 @@ In particular, we will start with basic statements like print and assignment
 statements. We will look at variables and the main data types in Python.
 We will also learn about data structures, such as lists and dictionaries.
 
-## Video Lessons
+## Video lessons
 
 Go through *one* or more of these to get started with basic Python syntax. 
 They are mostly equivalent, but they are listed in order from slowest, most 
@@ -36,7 +36,7 @@ is going too fast for you, then you are encouraged to first take these courses .
 ... before proceeding with our course (*Learning Python for Data Analysis*, 
 "lp4da").
 
-## Interactive Tutorials
+## Interactive tutorials
 
 These free courses offer browser-based environments with online, guided, 
 interactive tutorials for learning Python. Try all of these courses if you 
@@ -77,7 +77,7 @@ least verbose to most verbose.
 NOTE: The second book listed above is probably the best match for this 
 portion of our course. 
 
-### Additional Materials
+### Additional materials
 
 #### Courses
 
