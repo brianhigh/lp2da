@@ -1,7 +1,7 @@
 # Getting started
 
 Learning Python for Data Analysis (lp4da) is a course useful for self-guided study, 
-study groups, private tutoring. It can also provide a structure for traditional 
+study groups, and private tutoring. It can also provide a structure for traditional 
 classroom instruction.
 
 This course will use materials from online courses, websites, software, and books. 
