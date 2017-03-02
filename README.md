@@ -1,4 +1,5 @@
-# lp2da
+# lp4da
+
 Learning Python for Data Analysis (lp4da)
 
 This repository contains materials for a self-guided course.
