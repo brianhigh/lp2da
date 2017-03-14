@@ -99,6 +99,14 @@ an alternative presentation to the first third of the material covered in
 the material in *Python A-Z™: Python For Data Science With Real Exercises!* 
 except for the "Advanced Visualization" section, but with more focus on *Pandas*.
 
+*edx* also offers Python courses. Here are a few that might interest you:
+
+* [Introduction to Computer Science and Programming Using Python (MIT)](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-9)
+* [Introduction to Python for Data Science (Microsoft/DataCamp)](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-4)
+* [Using Python for Research (Harvard)](https://www.edx.org/course/using-python-research-harvardx-ph526x)
+
+You can take them for free. Some are self-paced, while others have a fixed schedule.
+
 #### Books
 
 Later, we will also refer to some books specifically intended for learning how 
