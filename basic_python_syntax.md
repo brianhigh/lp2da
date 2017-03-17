@@ -127,9 +127,14 @@ For a more recent (2016) treatment of IPython, Numpy and Pandas, see:
 
 * [Python Data Science Handbook (2016)](https://seattle.bibliocommons.com/item/show/3251526030_python_data_science_handbook) (free access through *SPL*) by Jake VanderPlas, UW eScience Insitute's director of research in physical sciences
 
-Note: This book presents the material in more of a cookbook or reference book 
+This book presents the material in more of a cookbook or reference book 
 fashion than *Python for Data Analysis*. Code examples are used to show the 
 concepts with only a minimum of explanatory text in many sections. The book is 
 available freely [online](https://github.com/jakevdp/PythonDataScienceHandbook)  in the form of Jupyter Notebooks.
+
+Other "cookbooks" for Python are:
+
+* [Python Cookbook, Third Edition (2013)](http://chimera.labs.oreilly.com/books/1230000000393) (*free* online)
+* [Python Recipes Handbook](https://seattle.bibliocommons.com/item/show/3261630030_python_recipes_handbook) (free access through *SPL*)
 
 
