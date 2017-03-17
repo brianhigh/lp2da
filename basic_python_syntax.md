@@ -130,7 +130,12 @@ For a more recent (2016) treatment of IPython, Numpy and Pandas, see:
 This book presents the material in more of a cookbook or reference book 
 fashion than *Python for Data Analysis*. Code examples are used to show the 
 concepts with only a minimum of explanatory text in many sections. The book is 
-available freely [online](https://github.com/jakevdp/PythonDataScienceHandbook)  in the form of Jupyter Notebooks.
+available freely [online](https://github.com/jakevdp/PythonDataScienceHandbook).
+
+His companion primer for programmers new to Python is [A Whirlwind Tour of Python (2016)](https://github.com/jakevdp/WhirlwindTourOfPython). This, combined with
+*Python Data Science Handbook* would be suitable for those who have programmed 
+in another language and wanted to get up and running with Python for data science
+quickly. Both books are available online for free as Jupyter notebooks.
 
 Other "cookbooks" for Python are:
 
