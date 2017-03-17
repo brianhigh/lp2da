@@ -125,3 +125,6 @@ For a more recent (2016) treatment of IPython, Numpy and Pandas, see:
 
 * [Python Data Science Handbook (2016)](https://seattle.bibliocommons.com/item/show/3251526030_python_data_science_handbook) (free access through *SPL*)
 
+Note: This book presents the material in more of a cookbook fashion than *Python for Data Analysis*.
+
+
