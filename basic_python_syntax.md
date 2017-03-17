@@ -135,6 +135,6 @@ available freely [online](https://github.com/jakevdp/PythonDataScienceHandbook) 
 Other "cookbooks" for Python are:
 
 * [Python Cookbook, Third Edition (2013)](http://chimera.labs.oreilly.com/books/1230000000393) (*free* online)
-* [Python Recipes Handbook](https://seattle.bibliocommons.com/item/show/3261630030_python_recipes_handbook) (free access through *SPL*)
+* [Python Recipes Handbook (2016)](https://seattle.bibliocommons.com/item/show/3261630030_python_recipes_handbook) (free access through *SPL*)
 
 
