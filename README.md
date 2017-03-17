@@ -16,6 +16,6 @@ analysis, even if you have no previous programming experience.
 
 1. [Getting Started](getting_started.md): Installing Python and Jupyter (IPython) Notebook
 2. [Basic Python Syntax I](basic_python_syntax.md): Data Types, Operators, Variables, and Data Structures
-3. Basic Python Syntax II: Comparison Operators, Conditional Statements, Loops, and Functions
+3. [Basic Python Syntax II](basic_python_syntax_2.md): Comparison Operators, Conditional Statements, Loops, and Functions
 4. Working with Dataframes: Numpy and Pandas
 5. Data Visualization: Matplotlib and Seaborn
