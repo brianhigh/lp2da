@@ -123,6 +123,8 @@ of texts for our course. So, if you are truly serious about learning this
 material, and would actually read these books, then you are encouraged to 
 obtain a copy of each of them and study them carefully.
 
+#### Cookbooks
+
 For a more recent (2016) treatment of IPython, Numpy and Pandas, see:
 
 * [Python Data Science Handbook (2016)](https://seattle.bibliocommons.com/item/show/3251526030_python_data_science_handbook) (free access through *SPL*) by Jake VanderPlas, UW eScience Insitute's director of research in physical sciences
@@ -141,5 +143,4 @@ Other "cookbooks" for Python are:
 
 * [Python Cookbook, Third Edition (2013)](http://chimera.labs.oreilly.com/books/1230000000393) (*free* online)
 * [Python Recipes Handbook (2016)](https://seattle.bibliocommons.com/item/show/3261630030_python_recipes_handbook) (free access through *SPL*)
-
 
