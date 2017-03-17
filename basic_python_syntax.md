@@ -130,7 +130,6 @@ For a more recent (2016) treatment of IPython, Numpy and Pandas, see:
 Note: This book presents the material in more of a cookbook or reference book 
 fashion than *Python for Data Analysis*. Code examples are used to show the 
 concepts with only a minimum of explanatory text in many sections. The book is 
-available freely [online](https://github.com/jakevdp/PythonDataScienceHandbook)  
-in form of Jupyter Notebooks.
+available freely [online](https://github.com/jakevdp/PythonDataScienceHandbook)  in the form of Jupyter Notebooks.
 
 
