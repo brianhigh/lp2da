@@ -125,10 +125,10 @@ obtain a copy of each of them and study them carefully.
 
 For a more recent (2016) treatment of IPython, Numpy and Pandas, see:
 
-* [Python Data Science Handbook (2016)](https://seattle.bibliocommons.com/item/show/3251526030_python_data_science_handbook) (free access through *SPL*)
+* [Python Data Science Handbook (2016)](https://seattle.bibliocommons.com/item/show/3251526030_python_data_science_handbook) (free access through *SPL*) by Jake VanderPlas, UW eScience Insitute's director of research in physical sciences
 
-Note: This book presents the material in more of a cookbook fashion than 
-*Python for Data Analysis*. Code examples are used to show the concepts with 
-only a minimum of explanatory text.
+Note: This book presents the material in more of a cookbook or reference book 
+fashion than *Python for Data Analysis*. Code examples are used to show the 
+concepts with only a minimum of explanatory text in many sections.
 
 
