@@ -22,6 +22,8 @@ detailed (beginner), to the fastest, least detailed (intermediate).
   Section 2 (at least videos 2-4, with more detail in Section 3)
 * [Lynda: Introduction to Data Analysis with Python](https://www.lynda.com/Numpy-tutorials/Introduction-Data-Analysis-Python/419162-2.html) (*free through [SPL](http://lynda.com/portal/sip?org=spl.org)*) - 
   Section 2
+* [Using Python for Research (Harvard)](https://www.edx.org/course/using-python-research-harvardx-ph526x) (*free* to audit) - 
+  Week 1, Parts 1 and 2
   
 NOTE: The first course in the list above, *Complete Python Bootcamp* is based 
 on Python 2.7 *not* Python 3. We will use Python 3. You can still watch videos 

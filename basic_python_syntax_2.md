@@ -18,6 +18,8 @@ detailed (beginner), to the fastest, least detailed (intermediate).
   Finish Section 2 and Section 3, videos 11-16 (up through "Functions in Python")
 * [Lynda: Introduction to Data Analysis with Python](https://www.lynda.com/Numpy-tutorials/Introduction-Data-Analysis-Python/419162-2.html) (*free through [SPL](http://lynda.com/portal/sip?org=spl.org)*) - 
   Section 3: Word Anagrams in Python (this is a project-based tutorial)
+* [Using Python for Research (Harvard)](https://www.edx.org/course/using-python-research-harvardx-ph526x) (*free* to audit) - 
+  Week 1, Part 3
   
 NOTE: The first course in the list above, *Complete Python Bootcamp* is based 
 on Python 2.7 *not* Python 3. We will use Python 3. You can still watch videos 
